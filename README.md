@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Scott!
 - 👀 I’m interested in UX/UI Design.
-- 🌱 I’m currently in the process of completing a UX/UI Bootcamp to supercharge my skills!
+- 🌱 I’m currently looking for UX/UI Design jobs! Please reach out if you stumble across my page and you think that my skills align with your needs.
 - 📫 Check out my portfolio to see what I've done! spmdesigns.com
 
 <!---
